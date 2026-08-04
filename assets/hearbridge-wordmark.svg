@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 260" role="img" aria-labelledby="title">
+  <title id="title">HearBridge wordmark</title>
+  <g transform="translate(10 10) scale(.47)">
+    <rect width="512" height="512" rx="116" fill="#143D59"/>
+    <path d="M112 138c0-35 29-64 64-64h160c35 0 64 29 64 64v101c0 35-29 64-64 64H237l-79 69v-69h18c-35 0-64-29-64-64V138Z" fill="#F5F1E8"/>
+    <path d="M205 188c20-34 83-39 108 4 23 39-2 70-28 82-24 12-24 29-24 50" fill="none" stroke="#E76F51" stroke-width="28" stroke-linecap="round"/>
+    <path d="M219 378c34-37 72-37 106 0" fill="none" stroke="#62B6CB" stroke-width="24" stroke-linecap="round"/>
+    <circle cx="261" cy="346" r="12" fill="#E76F51"/>
+  </g>
+  <text x="285" y="166" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" fill="#143D59">Hear</text>
+  <text x="535" y="166" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" fill="#E76F51">Bridge</text>
+  <text x="292" y="214" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="4" fill="#356A7A">ACCESSIBLE CONVERSATIONS</text>
+</svg>

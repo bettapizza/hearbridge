@@ -1,1 +1,9 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">HearBridge mark</title>
+  <desc id="desc">A speech bubble joined to a stylized ear and bridge.</desc>
+  <rect width="512" height="512" rx="116" fill="#143D59"/>
+  <path d="M112 138c0-35 29-64 64-64h160c35 0 64 29 64 64v101c0 35-29 64-64 64H237l-79 69v-69h18c-35 0-64-29-64-64V138Z" fill="#F5F1E8"/>
+  <path d="M205 188c20-34 83-39 108 4 23 39-2 70-28 82-24 12-24 29-24 50" fill="none" stroke="#E76F51" stroke-width="28" stroke-linecap="round"/>
+  <path d="M219 378c34-37 72-37 106 0" fill="none" stroke="#62B6CB" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="261" cy="346" r="12" fill="#E76F51"/>
+</svg>
